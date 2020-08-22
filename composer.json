@@ -1,0 +1,15 @@
+{
+    "name": "azathoth/patterns",
+    "authors": [
+        {
+            "name": "TomuraCreator",
+            "email": "vladislavutkin92@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {}
+}
